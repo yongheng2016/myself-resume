@@ -21,6 +21,7 @@
       font-family: 'Pinyon Script', cursive;
       font-size: 48px;
       color: rgb(255, 76, 76);
+      text-shadow: .5px .5px pink;
     }
     header>.link {
       display: flex;
@@ -30,14 +31,13 @@
     header>.link>li {
       margin: 16px;
       font-size: 22px;
-      color: rgba(255,0,0,.5)
+      color: rgba(255,0,0,.5);
     }
     header>.link>li>a {
       font-size: 26px;
-      
     }
     header>.link>li>a:hover {
-      color: rgba(255,0,0,1)
+      color: rgba(255,0,0,1);
     }
     main {
       margin-top: 40px;
