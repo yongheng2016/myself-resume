@@ -1,0 +1,61 @@
+    header {
+      margin-top: 24px;
+    }
+    header>.logo {
+      text-align: center;
+    }
+    header>.logo>img {
+      width: 90px;
+    }
+    header>h1 {
+      margin-top: 10px;
+      text-align: center;
+      font-size: 48px;
+      color: rgb(255, 76, 76);
+    }
+    header>.link {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    header>.link>li {
+      margin: 16px;
+      font-size: 22px;
+      color: rgba(255,0,0,.5)
+    }
+    header>.link>li>a {
+      font-size: 26px;
+      
+    }
+    header>.link>li>a:hover {
+      color: rgba(255,0,0,1)
+    }
+    main {
+      margin-top: 80px;
+    }
+    main>.viewPanels {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    main>.viewPanels>li {
+      width: 30%;
+      min-width: 320px;
+      padding: 24px 0;
+      background: #000;
+      border: 1px solid #fff;
+      border-radius: 16px;
+      margin: 16px;
+      box-shadow: 1px 1px 7px 1px #000;
+    }
+    main>.viewPanels>li:hover {
+      box-shadow: 5px 2px 15px 2px #000;
+    }
+    main>.viewPanels>li>a>img {
+      width: 100%;
+      vertical-align: top;
+    }
+    footer {
+      margin-top: 72px;
+      text-align: center;
+    }
