@@ -77,8 +77,6 @@
       margin-left: 32px;
       font-size: 30px;
     }
-    footer ul>li>img {
-      width: 50px;
-      height: 50px;
-      background: #000;
+    footer ul.iconfonts>li>a {
+      color: rgb(50, 70, 90);
     }
