@@ -10,6 +10,7 @@
     header>h1 {
       margin-top: 10px;
       text-align: center;
+      font-family: 'Pinyon Script', cursive;
       font-size: 48px;
       color: rgb(255, 76, 76);
     }
