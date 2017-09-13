@@ -80,3 +80,6 @@
     footer ul.iconfonts>li>a {
       color: rgb(50, 70, 90);
     }
+    footer ul.iconfonts>li>a:hover {
+      color: red;
+    }
