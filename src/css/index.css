@@ -63,7 +63,7 @@
     }
     main>.viewPanels>li>a>img {
       width: 100%;
-      max-height: 220px;
+      height: 220px;
       vertical-align: top;
     }
     main>.viewPanels>li:nth-child(3)>a:hover:after {
